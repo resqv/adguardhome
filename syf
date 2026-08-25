@@ -1,4 +1,25 @@
+! === Usługi reklamowe, trackingowe i telemetria (ZALECANE DO BLOKOWANIA)
+||ad-pod-manager.services.tvn.pl^
+||mobile-data.onetrust.io^
 ||engagements.appsflyer.com^$important
+||emailpartners.net^$important
+||mailkit.eu^$important
+||datahub.enhanced.tools^$important
+||pl.media.enhanced.live^$important
+||hbbtv.prod-wbd.serversideai.com^$important
+
+! === Smart TV (LG / HbbTV) & IoT
+||lgtvonline.lge.com^
+||lgthinq.com^
+||ueiwsp.com^
+||lgeapi.com^
+||lgtviot.com^$important
+||meethue.com^
+||discovery.meethue.com^$important
+||idu.hbbtv.emitel.pl^
+||hbbpolo.teleaudio.pl^$important
+
+! === Domena / Usługi Interia i PlusCDN
 ||interia-v-e1-102.pluscdn.pl^$important
 ||geolocalization.interia.pl^$important
 ||interia-v.pluscdn.pl^$important
@@ -6,12 +27,3 @@
 ||www.interia.pl^$important
 ||pogoda.interia.pl^$important
 ||iplsc.com^$important
-||pl.media.enhanced.live^$important
-||hbbpolo.teleaudio.pl^$important
-||hbbtv.prod-wbd.serversideai.com^$important
-||ad-pod-manager.services.tvn.pl^$important
-||datahub.enhanced.tools^$important
-||discovery.meethue.com^$important
-||emailpartners.net^$important
-||mailkit.eu^$important
-||lgtviot.com^$important
